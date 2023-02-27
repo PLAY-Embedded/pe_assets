@@ -1,0 +1,461 @@
+{
+  "maxImageSize": "9000",
+  "maxImageBytes": "9000000",
+  "defaultFonts": [
+    "Arial",
+    "Arial Narrow"
+  ],
+  "defaultVertexStyle": {
+    "fontFamily":"Arial",
+    "fontSize": "20",
+    "fontColor": "#00313C",
+    "strokeColor": "#00313C",
+    "fillColor": "#FFFFFF",
+    "strokeWidth":"2"
+  },
+  "defaultEdgeStyle": {
+    "fontFamily":"Arial",
+    "fontSize": "20",
+    "fontColor": "#00313C",
+    "strokeColor": "#00313C",
+    "fillColor": "none",
+    "strokeWidth":"2",
+    "rounded": "0"
+  },
+  "presetColors": [
+    "FFCD00",
+    "00313C",
+    "38CBDA",
+    "009A44",
+    "FF7F32",
+    "AADB1E",
+    "C10016",
+    "D62598",
+    "281E78",
+    null,
+    null,
+    null
+  ],
+  "defaultColors": [
+    "4C3D00",
+    "B28F00",
+    "FFD733",
+    "FFE166",
+    "FFEDA5",
+    "FFFAE5",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "264F59",
+    "4C6E76",
+    "7F989D",
+    "A5B6BA",
+    "D8E0E1",
+    "FFFFFF",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "103C41",
+    "24838D",
+    "5FD5E1",
+    "87DFE8",
+    "B9ECF2",
+    "EBF9FB",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "002E14",
+    "00642C",
+    "33AE69",
+    "66C28E",
+    "A5DBBD",
+    "E5F4EC",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "4C260F",
+    "A55220",
+    "FF985B",
+    "FFB284",
+    "FFD2B7",
+    "FFF2EA",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "334109",
+    "6E8E13",
+    "BBE24B",
+    "CCE978",
+    "E1F2B0",
+    "F6FBE8",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "390006",
+    "7D000E",
+    "CD3344",
+    "D96673",
+    "E9A5AD",
+    "F8E5E7",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "400B2D",
+    "8B1862",
+    "DE50AC",
+    "E67CC1",
+    "F0B2DA",
+    "FAE9F4",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "0C0924",
+    "1A134E",
+    "534B93",
+    "7E78AE",
+    "B3B0CF",
+    "E9E8F1",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "defaultColorSchemes": [
+    [
+      {
+        "title": "PE Brand Gold",
+        "fill": "#FFCD00",
+        "stroke": "#FFCD00",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Brand Midnight",
+        "fill": "#00313C",
+        "stroke": "#00313C",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Accent Azure",
+        "fill": "#38CBDA",
+        "stroke": "#38CBDA",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Accent Green",
+        "fill": "#009A44",
+        "stroke": "#009A44",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Accent Pumpkin",
+        "fill": "#FF7F32",
+        "stroke": "#FF7F32",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Extended Lime",
+        "fill": "#AADB1E",
+        "stroke": "#AADB1E",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Extended Red",
+        "fill": "#C10016",
+        "stroke": "#C10016",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Extended Pink",
+        "fill": "#D62598",
+        "stroke": "#D62598",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Extended Cobalt",
+        "fill": "#281E78",
+        "stroke": "#281E78",
+        "font": "#FFFFFF"
+      },
+      {
+        "title": "PE Shaded Brand Midnight",
+        "fill": "#264F59",
+        "stroke": "#264F59",
+        "font": "#FFFFFF"
+      }
+    ],
+    [
+      {
+        "title": "PE Brand Gold",
+        "fill": "#FFE166",
+        "stroke": "#FFCD00",
+        "font": "#FFCD00"
+      },
+      {
+        "title": "PE Brand Midnight",
+        "fill": "#A5B6BA",
+        "stroke": "#00313C",
+        "font": "#00313C"
+      },
+      {
+        "title": "PE Accent Azure",
+        "fill": "#87DFE8",
+        "stroke": "#38CBDA",
+        "font": "#38CBDA"
+      },
+      {
+        "title": "PE Accent Green",
+        "fill": "#66C28E",
+        "stroke": "#009A44",
+        "font": "#009A44"
+      },
+      {
+        "title": "PE Accent Pumpkin",
+        "fill": "#FFB284",
+        "stroke": "#FF7F32",
+        "font": "#FF7F32"
+      },
+      {
+        "title": "PE Extended Lime",
+        "fill": "#CCE978",
+        "stroke": "#AADB1E",
+        "font": "#AADB1E"
+      },
+      {
+        "title": "PE Extended Red",
+        "fill": "#D96673",
+        "stroke": "#C10016",
+        "font": "#C10016"
+      },
+      {
+        "title": "PE Extended Pink",
+        "fill": "#E67CC1",
+        "stroke": "#D62598",
+        "font": "#D62598"
+      },
+      {
+        "title": "PE Extended Cobalt",
+        "fill": "#7E78AE",
+        "stroke": "#281E78",
+        "font": "#281E78"
+      },
+      {
+        "title": "PE Shaded Brand Midnight",
+        "fill": "#D8E0E1",
+        "stroke": "#264F59",
+        "font": "#264F59"
+      }
+    ],
+    [
+      {
+        "title": "PE Brand Gold",
+        "fill": "#FFFAE5",
+        "stroke": "#FFCD00",
+        "font": "#FFCD00"
+      },
+      {
+        "title": "PE Brand Midnight",
+        "fill": "#D8E0E1",
+        "stroke": "#00313C",
+        "font": "#00313C"
+      },
+      {
+        "title": "PE Accent Azure",
+        "fill": "#EBF9FB",
+        "stroke": "#38CBDA",
+        "font": "#38CBDA"
+      },
+      {
+        "title": "PE Accent Green",
+        "fill": "#E5F4EC",
+        "stroke": "#009A44",
+        "font": "#009A44"
+      },
+      {
+        "title": "PE Accent Pumpkin",
+        "fill": "#FFF2EA",
+        "stroke": "#FF7F32",
+        "font": "#FF7F32"
+      },
+      {
+        "title": "PE Extended Lime",
+        "fill": "#F6FBE8",
+        "stroke": "#AADB1E",
+        "font": "#AADB1E"
+      },
+      {
+        "title": "PE Extended Red",
+        "fill": "#F8E5E7",
+        "stroke": "#C10016",
+        "font": "#C10016"
+      },
+      {
+        "title": "PE Extended Pink",
+        "fill": "#FAE9F4",
+        "stroke": "#D62598",
+        "font": "#D62598"
+      },
+      {
+        "title": "PE Extended Cobalt",
+        "fill": "#E9E8F1",
+        "stroke": "#281E78",
+        "font": "#281E78"
+      },
+      {
+        "title": "PE Shaded Brand Midnight",
+        "fill": "#FFFFFF",
+        "stroke": "#264F59",
+        "font": "#264F59"
+      }
+    ],
+    [
+      {
+        "title": "PE Brand Gold",
+        "fill": "none",
+        "stroke": "#FFCD00",
+        "font": "#FFCD00"
+      },
+      {
+        "title": "PE Brand Midnight",
+        "fill": "none",
+        "stroke": "#00313C",
+        "font": "#00313C"
+      },
+      {
+        "title": "PE Accent Azure",
+        "fill": "none",
+        "stroke": "#38CBDA",
+        "font": "#38CBDA"
+      },
+      {
+        "title": "PE Accent Green",
+        "fill": "none",
+        "stroke": "#009A44",
+        "font": "#009A44"
+      },
+      {
+        "title": "PE Accent Pumpkin",
+        "fill": "none",
+        "stroke": "#FF7F32",
+        "font": "#FF7F32"
+      },
+      {
+        "title": "PE Extended Lime",
+        "fill": "none",
+        "stroke": "#AADB1E",
+        "font": "#AADB1E"
+      },
+      {
+        "title": "PE Extended Red",
+        "fill": "none",
+        "stroke": "#C10016",
+        "font": "#C10016"
+      },
+      {
+        "title": "PE Extended Pink",
+        "fill": "none",
+        "stroke": "#D62598",
+        "font": "#D62598"
+      },
+      {
+        "title": "PE Extended Cobalt",
+        "fill": "none",
+        "stroke": "#281E78",
+        "font": "#281E78"
+      },
+      {
+        "title": "PE Shaded Brand Midnight",
+        "fill": "none",
+        "stroke": "#264F59",
+        "font": "#264F59"
+      }
+    ],
+    [
+      {
+        "title": "PE Brand Gold",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#FFCD00"
+      },
+      {
+        "title": "PE Brand Midnight",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#00313C"
+      },
+      {
+        "title": "PE Accent Azure",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#38CBDA"
+      },
+      {
+        "title": "PE Accent Green",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#009A44"
+      },
+      {
+        "title": "PE Accent Pumpkin",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#FF7F32"
+      },
+      {
+        "title": "PE Extended Lime",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#AADB1E"
+      },
+      {
+        "title": "PE Extended Red",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#C10016"
+      },
+      {
+        "title": "PE Extended Pink",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#D62598"
+      },
+      {
+        "title": "PE Extended Cobalt",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#281E78"
+      },
+      {
+        "title": "PE Shaded Brand Midnight",
+        "fill": "none",
+        "stroke": "none",
+        "font": "#264F59"
+      }
+    ]
+  ]
+}
