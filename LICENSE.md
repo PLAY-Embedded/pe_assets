@@ -1,6 +1,4 @@
-# Repository Name
-
-**PLAY Embedded Assets**
+# PLAY Embedded Assets
 
 ## License
 
